@@ -84,7 +84,7 @@ i3-msg restart
 
 - 401 Unauthorized Error: Ensure your Unsplash API key is correct and properly set in the script.
 - No Internet Connection: The script will fall back to locally stored images or the fallback image.
--feh Not Working: Install `feh` or replace it with another wallpaper-setting tool.
+- feh Not Working: Install `feh` or replace it with another wallpaper-setting tool.
 
 ---
 
