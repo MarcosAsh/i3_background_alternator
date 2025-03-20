@@ -25,4 +25,7 @@ This Python script automatically sets your desktop background to a random photo 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/national-park-wallpaper.git
-cd national-park-wallpaper```
+cd national-park-wallpaper
+```
+
+### 2. Install Dependencies
