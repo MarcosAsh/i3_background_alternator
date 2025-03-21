@@ -80,6 +80,25 @@ i3-msg restart
 
 ---
 
+## Running with Docker
+
+To run the `i3_wallpaper_rotation` script using Docker:
+
+1. Build the Docker image:
+
+   ```bash
+   docker build -t i3_wallpaper_rotation:latest .
+    ```
+
+2. Build the Docker container: 
+```bash
+docker run --rm i3_wallpaper_rotation:latest
+```
+
+Ensure that Docker is installed and running on your system. For more information on using Docker with Python applications, refer to the Docker documentation.
+
+---
+
 # Troubleshooting
 
 - 401 Unauthorized Error: Ensure your Unsplash API key is correct and properly set in the script.
